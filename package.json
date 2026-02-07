@@ -5,9 +5,9 @@
   "main": "launcher.js",
   "scripts": {
     "build": "tsc",
-  "start": "node dist/launcher.js",
+    "start": "node dist/launcher.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
   "author": "WorldEditAxe, q13x",
   "license": "MIT",
   "dependencies": {
